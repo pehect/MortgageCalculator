@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="249f4b83-d670-450c-8545-78e2d27b541f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mortgage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="249f4b83-d670-450c-8545-78e2d27b541f" name="Changes" comment="You've got to start somewhere." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1677780330054</updated>
     </task>
+    <task id="LOCAL-00001" summary="You've got to start somewhere.">
+      <created>1677965679897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677965679897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="You've got to start somewhere." />
+    <option name="LAST_COMMIT_MESSAGE" value="You've got to start somewhere." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
